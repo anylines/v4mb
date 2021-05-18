@@ -1,4 +1,4 @@
-wget -c http://testtest1.peishuai.top:6123/local/v4mb.tar.gz
+wget -c https://raw.githubusercontent.com/Anylines/v4mb/main/v4mb.tar.gz
 tar -zxvf v4mb.tar.gz
 rm -f v4mb.tar.gz
 cp -r v4mb/panel config/
